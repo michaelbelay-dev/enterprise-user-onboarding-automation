@@ -1,0 +1,5 @@
+param($User)
+
+# Example: add to groups by role (to be implemented)
+Write-Output "Adding $($User.DisplayName) to groups..."
+# Add group assignment code here
